@@ -1,0 +1,44 @@
+# Ashira Zamita – Ku Cinta Nanti
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.62] Cintaku inginkan kau menjadi milikku
+[00:32.13] Cintaku tak perlu ku ungkap kepadamu
+[00:40.48] Namun perasaanku jadi tak menentu
+[00:48.27] Karena kau selalu ada di benakku
+[00:58.29] Sedang apa di mana
+[01:01.72] Dan bersama siapa
+[01:06.35] Bila kau tiada
+[01:09.23] Hampa dan sepi yang kurasa
+[01:14.67] Bila tak bersamanya
+[01:18.61] Hati ini selalu bertanya
+[01:22.90] Adakah rasa ini sama
+[01:27.75] Mungkinkah kau juga cinta
+[01:35.38] Huh
+[01:40.24] Andaikan rasa ini bisa ku ungkapkan
+[01:48.74] Mungkin akan membuatmu luluh dan terkesan
+[01:57.04] Tapi ku tahu ini belumlah saatnya
+[02:05.26] Cukup ku pendam dan merindu dalam diam
+[02:14.77] Sedang apa di mana
+[02:18.01] Dan bersama siapa
+[02:22.96] Bila kau tiada
+[02:25.57] Hampa dan sepi yang kurasa
+[02:31.24] Bila tak bersamanya
+[02:35.18] Hati ini selalu bertanya
+[02:39.51] Adakah rasa ini sama
+[02:44.26] Mungkinkah kau juga cinta
+[02:50.60] Oh huh
+[03:04.42] Ho
+[03:08.49] Sedang apa di mana
+[03:11.87] Dan bersama siapa
+[03:16.62] Bila kau tiada
+[03:19.45] Hampa dan sepi yang kurasa
+[03:24.95] Setelah kusadari
+[03:28.87] Belum saatnya kau kumiliki
+[03:33.65] Biarlah ini kan terhenti
+[03:37.99] Kau akan kucinta
+[03:41.29] Biarlah ini terhenti
+[03:46.43] Kau akan kucinta
+[03:52.62] Nanti ho
+```
