@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Ku Cinta Nanti",
+  "base_artist": "Ashira Zamita",
+  "createdAt": "2026-03-18T06:37:38.857740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ku Cinta Nanti",
+      "artist": "Ashira Zamita",
+      "has_synced": true,
+      "path": "select/01_Ku_Cinta_Nanti_Ashira_Zamita.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cintaku Kini - Ku Cinta Nanti 2",
+      "artist": "Ashira Zamita",
+      "has_synced": true,
+      "path": "select/02_Cintaku_Kini_-_Ku_Cinta_Nanti_2_Ashira_Zamita.lrc"
+    }
+  ]
+}
